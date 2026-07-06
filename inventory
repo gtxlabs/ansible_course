@@ -1,6 +1,6 @@
 #This is an inventory file for my Ansible Lab
 172.30.133.112
-#172.30.133.113
+172.30.133.113
 
 #[netscalers]
 #172.30.132.30
